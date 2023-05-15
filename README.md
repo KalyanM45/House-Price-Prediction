@@ -1,8 +1,6 @@
-# House-Price-Prediction
+# House-Price-Prediction with Machine Learning
 
 # About the Project
-
-# Housing Price Prediction with Machine Learning
 
 This project aims to develop a machine learning model that accurately predicts housing prices using the Boston Housing dataset. By analyzing various features of houses, such as crime rate, number of rooms, and accessibility to highways, the model provides valuable insights for potential buyers or sellers in estimating housing prices. The project utilizes the powerful CatBoostRegressor algorithm for optimal performance and incorporates techniques like data preprocessing, exploratory data analysis, and model training. The trained model can be used as a tool to make informed decisions in the real estate market. 
 
