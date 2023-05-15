@@ -91,5 +91,5 @@ If you have a suggestion that would make this better, please fork the repo and c
 Distributed under the GNU General Public License v3.0. See ```LICENSE.txt``` for more information.
 
 # Acknowledgements
-This project was inspired by the Kaggle dataset on Spam Email Detection and the corresponding competition. We also acknowledge the open-source Python libraries used in this project and their contributors.
+This project was inspired by the Kaggle dataset on Boston House Price Prediction and the corresponding competition. We also acknowledge the open-source Python libraries used in this project and their contributors.
 
